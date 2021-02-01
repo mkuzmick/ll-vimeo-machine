@@ -1,0 +1,23 @@
+{
+  "name": "ll-vimeo-machine",
+  "version": "1.0.0",
+  "description": "simple-cli-for-vimeo-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkuzmick/ll-vimeo-machine.git"
+  },
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkuzmick/ll-vimeo-machine/issues"
+  },
+  "homepage": "https://github.com/mkuzmick/ll-vimeo-machine#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "vimeo": "^2.1.1"
+  }
+}
